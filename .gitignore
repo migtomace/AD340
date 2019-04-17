@@ -1,5 +1,4 @@
 *.iml
-*.xml
 /local.properties
 /captures
 /.idea
@@ -7,3 +6,6 @@
 HW1/.gradle/
 HW1/.idea/
 HW1/local.properties
+HW2/.idea
+HW2/.gradle
+HW2/local.properties

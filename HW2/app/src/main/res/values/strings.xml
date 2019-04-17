@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="button">Submit</string>
+    <string name="message">Send A Message!</string>
+</resources>
